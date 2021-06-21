@@ -8,24 +8,26 @@ const ServicesPage = () => {
           <div className="section-title">
             <h2>Services</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              A Lifetime to committment to Humanity; to engineer, support, and
+              contribute towards making life easy for the common out there -
+              Sustainable Development - Programmitically; as a stetegy for
+              Sustainble Development accross africa, and the World at large.
             </p>
           </div>
 
           <div className="row">
             <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
               <div className="icon">
-                <i className="icofont-computer"></i>
+                <i className="icofont-code-alt"></i>
               </div>
               <h4 className="title">
-                <a href="www.google.com">Lorem Ipsum</a>
+                <a href="www.google.com">Software Development</a>
               </h4>
               <p className="description">
-                Voluptatum deleniti atque corrupti quos dolores et quas
-                molestias excepturi sint occaecati cupiditate non provident
+                Experienced Fullstack Developer; With over 5 years experience in
+                building edge-cutting Web Applications, API dashboard,
+                Management Systems, E-commerce, and various Content Management
+                Systems. eg. Wordpress, Wix, Shopify etc..
               </p>
             </div>
             <div
@@ -34,14 +36,16 @@ const ServicesPage = () => {
               data-aos-delay="100"
             >
               <div className="icon">
-                <i className="icofont-chart-bar-graph"></i>
+                <i className="icofont-iphone"></i>
               </div>
               <h4 className="title">
-                <a href="www.google.com">Dolor Sitema</a>
+                <a href="www.google.com">Mobile Development</a>
               </h4>
               <p className="description">
-                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat tarad limino ata
+                Experienced mobile-developer; with over 3years of rigorous
+                React-Native Designing, Coding, testing, debugging, documenting,
+                and developing mobile experiences that work across various
+                platforms (phones, tablets, etc.)
               </p>
             </div>
             <div
@@ -50,62 +54,15 @@ const ServicesPage = () => {
               data-aos-delay="200"
             >
               <div className="icon">
-                <i className="icofont-earth"></i>
+                <i className="icofont-chart-growth"></i>
               </div>
               <h4 className="title">
-                <a href="www.google.com">Sed ut perspiciatis</a>
+                <a href="www.google.com">IT Consultancy</a>
               </h4>
               <p className="description">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur
-              </p>
-            </div>
-            <div
-              className="col-lg-4 col-md-6 icon-box"
-              data-aos="fade-up"
-              data-aos-delay="300"
-            >
-              <div className="icon">
-                <i className="icofont-image"></i>
-              </div>
-              <h4 className="title">
-                <a href="www.google.com">Magni Dolores</a>
-              </h4>
-              <p className="description">
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                qui officia deserunt mollit anim id est laborum
-              </p>
-            </div>
-            <div
-              className="col-lg-4 col-md-6 icon-box"
-              data-aos="fade-up"
-              data-aos-delay="400"
-            >
-              <div className="icon">
-                <i className="icofont-settings"></i>
-              </div>
-              <h4 className="title">
-                <a href="www.google.com">Nemo Enim</a>
-              </h4>
-              <p className="description">
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque
-              </p>
-            </div>
-            <div
-              className="col-lg-4 col-md-6 icon-box"
-              data-aos="fade-up"
-              data-aos-delay="500"
-            >
-              <div className="icon">
-                <i className="icofont-tasks-alt"></i>
-              </div>
-              <h4 className="title">
-                <a href="www.google.com">Eiusmod Tempor</a>
-              </h4>
-              <p className="description">
-                Et harum quidem rerum facilis est et expedita distinctio. Nam
-                libero tempore, cum soluta nobis est eligendi
+                Top-notch product Designing and Development skills; With over
+                6years industry experience in Tech start-ups, STEM Education
+                integration, IT support and Digital literacy
               </p>
             </div>
           </div>

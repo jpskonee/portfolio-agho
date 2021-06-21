@@ -20,24 +20,40 @@ const HeaderWithNav = () => {
             </h1>
             <div className="social-links mt-3 text-center">
               <a
+                target="_blank"
+                rel="noreferrer"
                 href="https://www.twitter.com/Agho_Dev?s=09"
                 className="twitter"
               >
                 <i className="bx bxl-twitter"></i>
               </a>
-              <a href="https://www.facebook.com/wapemma" className="facebook">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.facebook.com/wapemma"
+                className="facebook"
+              >
                 <i className="bx bxl-facebook"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/agho-dev/"
+                target="_blank"
+                rel="noreferrer"
+                href="https://wa.link/d2xeue"
                 className="instagram"
               >
-                <i className="bx bxl-instagram"></i>
-              </a>
-              <a href="https://github.com/jpskonee/" className="google-plus">
-                <i className="bx bxl-skype"></i>
+                <i className="bx bxl-whatsapp"></i>
               </a>
               <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/jpskonee/"
+                className="google-plus"
+              >
+                <i className="bx bxl-github"></i>
+              </a>
+              <a
+                target="_blank"
+                rel="noreferrer"
                 href="https://www.linkedin.com/in/agho-dev/"
                 className="linkedin"
               >
@@ -55,7 +71,12 @@ const HeaderWithNav = () => {
               </li>
               <li>
                 <a href="#about">
-                  <i className="bx bx-user"></i> <span>About</span>
+                  <i className="bx bx-user"></i> <span>About Me</span>
+                </a>
+              </li>
+              <li>
+                <a href="#skills">
+                  <i className="bx bx-code"></i> <span>Skills</span>
                 </a>
               </li>
               <li>
@@ -65,7 +86,7 @@ const HeaderWithNav = () => {
               </li>
               <li>
                 <a href="#portfolio">
-                  <i className="bx bx-book-content"></i> Portfolio
+                  <i className="bx bx-book-content"></i> Works
                 </a>
               </li>
               <li>

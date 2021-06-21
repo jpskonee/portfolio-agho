@@ -6,12 +6,10 @@ const PortfolioHomePage = () => {
       <section id="portfolio" className="portfolio section-bg">
         <div className="container">
           <div className="section-title">
-            <h2>Portfolio</h2>
+            <h2>Works</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              My goal is to be the best I can, and be able to contribute towards
+              the Sustainable Developemnet Goals (SDGs-17) - Programmatically
             </p>
           </div>
 
@@ -21,9 +19,9 @@ const PortfolioHomePage = () => {
                 <li data-filter="*" className="filter-active">
                   All
                 </li>
-                <li data-filter=".filter-app">App</li>
-                <li data-filter=".filter-card">Card</li>
-                <li data-filter=".filter-web">Web</li>
+                <li data-filter=".filter-app">Web</li>
+                <li data-filter=".filter-card">Mobile </li>
+                <li data-filter=".filter-web">Projects</li>
               </ul>
             </div>
           </div>

@@ -3,7 +3,11 @@ import React from "react";
 const EmailForm = () => {
   return (
     <div>
-      <form action="forms/contact.php" method="post">
+      <form
+        action="mailto:wapemma@yahoo.com"
+        encType="multipart/form-data"
+        method="post"
+      >
         <div className="form-row">
           <div className="form-group col-md-6">
             <label htmlFor="name">Your Name</label>

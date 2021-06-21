@@ -21,7 +21,7 @@ const FactnStat = () => {
               data-aos="fade-up"
             >
               <div className="count-box">
-                <i className="icofont-simple-smile"></i>
+                <i className="icofont-dashboard-web"></i>
                 <span data-toggle="counter-up">232</span>
                 <p>
                   <strong>Happy Clients</strong> consequuntur quae
@@ -35,7 +35,7 @@ const FactnStat = () => {
               data-aos-delay="100"
             >
               <div className="count-box">
-                <i className="icofont-document-folder"></i>
+                <i className="icofont-code"></i>
                 <span data-toggle="counter-up">521</span>
                 <p>
                   <strong>Projects</strong> adipisci atque cum quia aut
@@ -49,7 +49,7 @@ const FactnStat = () => {
               data-aos-delay="200"
             >
               <div className="count-box">
-                <i className="icofont-live-support"></i>
+                <i className="icofont-chart-growth"></i>
                 <span data-toggle="counter-up">1,463</span>
                 <p>
                   <strong>Hours Of Support</strong> aut commodi quaerat
@@ -63,10 +63,10 @@ const FactnStat = () => {
               data-aos-delay="300"
             >
               <div className="count-box">
-                <i className="icofont-users-alt-5"></i>
+                <i className="icofont-live-support"></i>
                 <span data-toggle="counter-up">15</span>
                 <p>
-                  <strong>Hard Workers</strong> rerum asperiores dolor
+                  <strong>IT Consulting</strong> <br /> rerum asperiores dolor
                 </p>
               </div>
             </div>

@@ -6,12 +6,14 @@ const AboutPage = () => {
       <section id="about" className="about">
         <div className="container">
           <div className="section-title">
-            <h2>About</h2>
+            <h2>About Me</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              I am an Experienced Fullstack Developer with a vast array of
+              knowledge in many Frontend and Backend languages, responsive
+              frameworks, databases and best code practices. I am dedicated to
+              perfecting my craft by learning from more seasoned developers,
+              building projects, and making stides to learn all that i can about
+              Tech, and Software Development.
             </p>
           </div>
 
@@ -24,29 +26,22 @@ const AboutPage = () => {
               />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3>UI/UX Designer &amp; Web Developer.</h3>
-              <p className="font-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              </p>
+              <h3>Fullstack Developer | Mobile Developer </h3>
+              <p className="font-italic"></p>
               <div className="row">
                 <div className="col-lg-6">
                   <ul>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Birthday:</strong> 1 May 1995
+                      <strong>Birthday:</strong> 5<sup>th</sup> August
                     </li>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Website:</strong> www.example.com
+                      <strong>Website:</strong> www.agho.work
                     </li>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Phone:</strong> +123 456 7890
-                    </li>
-                    <li>
-                      <i className="icofont-rounded-right"></i>{" "}
-                      <strong>City:</strong> City : New York, USA
+                      <strong>Phone:</strong> +2348-955-471-52
                     </li>
                   </ul>
                 </div>
@@ -54,31 +49,25 @@ const AboutPage = () => {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Age:</strong> 30
+                      <strong>Degree: </strong> Bachelors Of Engineering
                     </li>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Degree:</strong> Master
+                      <strong>Email:</strong> wapemma@yahoo.com
                     </li>
                     <li>
                       <i className="icofont-rounded-right"></i>{" "}
-                      <strong>PhEmailone:</strong> email@example.com
-                    </li>
-                    <li>
-                      <i className="icofont-rounded-right"></i>{" "}
-                      <strong>Freelance:</strong> Available
+                      <strong>Work Status</strong> Available
                     </li>
                   </ul>
                 </div>
               </div>
               <p>
-                Officiis eligendi itaque labore et dolorum mollitia officiis
-                optio vero. Quisquam sunt adipisci omnis et ut. Nulla
-                accusantium dolor incidunt officia tempore. Et eius omnis.
-                Cupiditate ut dicta maxime officiis quidem quia. Sed et
-                consectetur qui quia repellendus itaque neque. Aliquid amet
-                quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-                culpa magni laudantium dolores.
+                During me Under-graduate days in University of Benin, I studied
+                <b> Engineering</b>; and I believe that my understanding of
+                enigeering, problem solving and algorithms are also skills that
+                have and will continue to contribute to my overall success as a
+                Product developer.{" "}
               </p>
             </div>
           </div>

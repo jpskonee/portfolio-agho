@@ -1,11 +1,11 @@
 import React from "react";
 import AboutPage from "./AboutPage";
 import ContactPage from "./contact-page/ContactPage";
-import FactnStat from "./FactnStat";
+// import FactnStat from "./skills-page/FactnStat";
 import Footer from "./Footer";
 import HeaderWithNav from "./HeaderWithNav";
 import NameAnimation from "./NameAnimation";
-import SkillsPage from "./SkillsPage";
+import SkillsPage from "./skills-page/SkillsPage";
 import ResumePage from "./ResumePage";
 import PortfolioHomePage from "./PortfolioHomePage";
 import ServicesPage from "./ServicesPage";
@@ -22,7 +22,8 @@ const Homepage = () => {
       <main id="main">
         <AboutPage />
 
-        <FactnStat />
+        {/* <FactnStat /> */}
+
         <SkillsPage />
 
         <ResumePage />

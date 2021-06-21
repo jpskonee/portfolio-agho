@@ -10,10 +10,10 @@ const ContactPage = () => {
           <div className="section-title">
             <h2>Contact</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              Schooling, college degrees, or intellect will not do you much good
+              if you can't get other people to cooperate with you in order to
+              create opportunities for yourself. - Napoleon Hill{" "}
+              <strong> Let's Connect! </strong>
             </p>
           </div>
 
@@ -22,20 +22,20 @@ const ContactPage = () => {
               <div className="info">
                 <div className="address">
                   <i className="icofont-google-map"></i>
-                  <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <h4>Current Location:</h4>
+                  <p>Lagos - Nigeria</p>
                 </div>
 
                 <div className="email">
                   <i className="icofont-envelope"></i>
                   <h4>Email:</h4>
-                  <p>info@example.com</p>
+                  <p>wapemma@yahoo.com</p>
                 </div>
 
                 <div className="phone">
                   <i className="icofont-phone"></i>
                   <h4>Call:</h4>
-                  <p>+1 5589 55488 55s</p>
+                  <p>+23480-955-471-52</p>
                 </div>
 
                 <GoogleMap />
