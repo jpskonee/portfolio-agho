@@ -1,7 +1,6 @@
 import React from "react";
 import AboutPage from "./AboutPage";
 import ContactPage from "./contact-page/ContactPage";
-// import FactnStat from "./skills-page/FactnStat";
 import Footer from "./Footer";
 import HeaderWithNav from "./HeaderWithNav";
 import NameAnimation from "./NameAnimation";
@@ -11,6 +10,8 @@ import PortfolioHomePage from "./PortfolioHomePage";
 import ServicesPage from "./ServicesPage";
 import TestimonialPage from "./TestimonialPage";
 import BacktoTopBtn from "./BacktoTopBtn";
+// import BlogPage from "./Blog/BlogPage";
+// import FactnStat from "./skills-page/FactnStat";
 
 const Homepage = () => {
   return (
@@ -33,6 +34,8 @@ const Homepage = () => {
         <ServicesPage />
 
         <TestimonialPage />
+
+        {/* <BlogPage /> */}
 
         <ContactPage />
       </main>

@@ -8,8 +8,8 @@ const PortfolioHomePage = () => {
           <div className="section-title">
             <h2>Works</h2>
             <p>
-              My goal is to be the best I can, and be able to contribute towards
-              the Sustainable Developemnet Goals (SDGs-17) - Programmatically
+              My goal is to be the best I can, and be able to always profer
+              solution to people and humanity, <em> programmatically</em>.
             </p>
           </div>
 

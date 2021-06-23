@@ -21,14 +21,14 @@ const SkillsPage = () => {
           </div>
           <div style={{ display: "flex", flexWrap: "wrap" }}>
             <SkillsItem colour="SlateBlue" value={100} skill="HTML" />
-            <SkillsItem colour="orange" value={90} skill="CSS" />
+            <SkillsItem colour="orange" value={98} skill="CSS" />
             <SkillsItem colour="red" value={95} skill="Bootstrap" />
-            <SkillsItem colour="tomato" value={90} skill="SASS" />
+            <SkillsItem colour="tomato" value={95} skill="SASS" />
             <SkillsItem colour="#148F77" value={98} skill="Javascript" />
             <SkillsItem colour="dodgerblue" value={98} skill="React.js" />
             <SkillsItem colour="peach" value={95} skill="Node.js" />
-            <SkillsItem colour="Violet" value={86} skill="Python" />
-            <SkillsItem colour="#BA4A00" value={85} skill="React-Native" />
+            <SkillsItem colour="Violet" value={90} skill="Python" />
+            <SkillsItem colour="#BA4A00" value={88} skill="React-Native" />
             <SkillsItem colour="LightCoral" value={98} skill="Material-UI" />
             <SkillsItem colour="#239aff" value={99} skill="Wordpress" />
             <SkillsItem colour="#DE3163" value={97} skill="Shopify" />

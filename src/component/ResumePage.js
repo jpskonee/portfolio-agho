@@ -8,10 +8,10 @@ const ResumePage = () => {
           <div className="section-title">
             <h2>Resume</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              {" "}
+              I am an Experienced Fullstack Developer with a vast array of
+              knowledge in many Frontend and Backend languages, responsive
+              frameworks, databases and best code practices.{" "}
             </p>
           </div>
 
@@ -19,99 +19,93 @@ const ResumePage = () => {
             <div className="col-lg-6" data-aos="fade-up">
               <h3 className="resume-title">Sumary</h3>
               <div className="resume-item pb-0">
-                <h4>Alex Smith</h4>
+                <h4>Emmanuel Agho</h4>
                 <p>
-                  <em>
-                    Innovative and deadline-driven Graphic Designer with 3+
-                    years of experience designing and developing user-centered
-                    digital/print marketing material from initial concept to
-                    final, polished deliverable.
-                  </em>
+                  I seek a challenging role in any team/organisation committed
+                  to excellence; So as to work, learn, and contribute towards
+                  attaining co-operate goals. I am dedicated to perfecting my
+                  craft by learning from more seasoned developers, building
+                  projects, and making stides to learn all that i can about
+                  Tech, and Software Development.
                 </p>
                 <ul>
-                  <li>Portland par 127,Orlando, FL</li>
-                  <li>(123) 456-7891</li>
-                  <li>alice.barkley@example.com</li>
+                  <li>Work: Available </li>
+                  <li>Language: English</li>
                 </ul>
               </div>
 
               <h3 className="resume-title">Education</h3>
               <div className="resume-item">
-                <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                <h5>2015 - 2016</h5>
+                <h4>Complete Web Development </h4>
+                <h5>Jan - Dec, 2018.</h5>
                 <p>
-                  <em>Rochester Institute of Technology, Rochester, NY</em>
+                  <em>App Brewery, United State.</em>
                 </p>
                 <p>
-                  Qui deserunt veniam. Et sed aliquam labore tempore sed
-                  quisquam iusto autem sit. Ea vero voluptatum qui ut
-                  dignissimos deleniti nerada porti sand markend
+                  <b>Frontend:</b> HTML, CSS, Javascript. <b>Backend: </b>
+                  Node.js, Javascript. <br />
+                  <b> Frameworks/Libraries: </b> JQuery, Bootstrap, EJS,
+                  React.js. <br /> <b>Database:</b> MongoDB <br />
                 </p>
               </div>
               <div className="resume-item">
-                <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                <h5>2010 - 2014</h5>
+                <h4>Bachelor of Engineering </h4>
+                <h5>2011 - 2016</h5>
                 <p>
-                  <em>Rochester Institute of Technology, Rochester, NY</em>
+                  <em>University of Benin, (Benin-City), NG</em>
                 </p>
                 <p>
-                  Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
-                  reiciendis et quis Eius vel ratione eius unde vitae rerum
-                  voluptates asperiores voluptatem Earum molestiae consequatur
-                  neque etlon sader mart dila
+                  Bachelors of Chemical Engineering (Process Engineering);
+                  Specialized in: Process Control, Automation; Computer aided
+                  designs and Instrumentation; Computer Programming.
                 </p>
               </div>
             </div>
             <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 className="resume-title">Professional Experience</h3>
               <div className="resume-item">
-                <h4>Senior graphic design specialist</h4>
-                <h5>2019 - Present</h5>
+                <h4>Freelancing </h4>
+                <h5>2020 - Present</h5>
                 <p>
-                  <em>Experion, New York, NY </em>
+                  <em> Upwork, Fiver, Remote etc </em>
                 </p>
                 <ul>
                   <li>
-                    Lead in the design, development, and implementation of the
-                    graphic, layout, and production communication materials
+                    Over 30 jobs completed; Satisfied customers from over 15
+                    different countries and Localities.
                   </li>
                   <li>
-                    Delegate tasks to the 7 members of the design team and
-                    provide counsel on all aspects of the project.{" "}
+                    Working hours delivered: 1000+; <br />
+                    Avarage Job Success Rating: Over 90% <br />
                   </li>
                   <li>
-                    Supervise the assessment of all graphic materials in order
-                    to ensure quality and accuracy of the design
+                    Project scope includes: Software Development and Debugging;
+                    WordPress, Wix, and Shopify development and Debugging; Web
+                    Scrapping, Scripting, Research, and Data Mining; Database
+                    Setup Engineering; and Mobile Development.
                   </li>
-                  <li>
-                    Oversee the efficient use of production project budgets
-                    ranging from $2,000 - $25,000
-                  </li>
+                  <li> 100% Job Satisfaction.</li>
                 </ul>
               </div>
               <div className="resume-item">
-                <h4>Graphic design specialist</h4>
-                <h5>2017 - 2018</h5>
+                <h4> Lead Instructor </h4>
+                <h5>2019 - Present</h5>
                 <p>
-                  <em>Stepping Stone Advertising, New York, NY</em>
+                  <em> Software Engineering - Learn Now Africa</em>
                 </p>
                 <ul>
                   <li>
-                    Developed numerous marketing programs (logos,
-                    brochures,infographics, presentations, and advertisements).
+                    A shared digital work and Learning hub; For Learning,
+                    Mentorship, Collabaration and Internship placements for
+                    Digital and Tech Skills.
                   </li>
                   <li>
-                    Managed up to 5 projects or tasks at a given time while
-                    under pressure
+                    Over 50 comprehensive Digital Courses; 1000+ mini courses
+                    and videos; 10,0000+ tutorial videos and Daily Tech Articles
+                    and Tips.
                   </li>
-                  <li>
-                    Recommended and consulted with clients on the most
-                    appropriate graphic design
-                  </li>
-                  <li>
-                    Created 4+ design presentations and proposals a month for
-                    clients and account managers
-                  </li>
+                  <li>Project Based Learning.</li>
+                  <li>24/7 learning hub</li>
                 </ul>
               </div>
             </div>

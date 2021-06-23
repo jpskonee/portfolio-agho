@@ -10,9 +10,9 @@ const ContactPage = () => {
           <div className="section-title">
             <h2>Contact</h2>
             <p>
-              Schooling, college degrees, or intellect will not do you much good
-              if you can't get other people to cooperate with you in order to
-              create opportunities for yourself. - Napoleon Hill{" "}
+              Schooling, college, degrees, or intellect will not do you much
+              good if you can't get other people to cooperate with you in order
+              to create opportunities for yourself. - Napoleon Hill{" "}
               <strong> Let's Connect! </strong>
             </p>
           </div>
@@ -20,16 +20,16 @@ const ContactPage = () => {
           <div className="row" data-aos="fade-in">
             <div className="col-lg-5 d-flex align-items-stretch">
               <div className="info">
-                <div className="address">
-                  <i className="icofont-google-map"></i>
-                  <h4>Current Location:</h4>
-                  <p>Lagos - Nigeria</p>
-                </div>
-
                 <div className="email">
                   <i className="icofont-envelope"></i>
                   <h4>Email:</h4>
                   <p>wapemma@yahoo.com</p>
+                </div>
+
+                <div className="address">
+                  <i className="icofont-google-map"></i>
+                  <h4>Telegram: </h4>
+                  <p>https://t.me/aghodotwork</p>
                 </div>
 
                 <div className="phone">
