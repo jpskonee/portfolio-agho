@@ -34,16 +34,15 @@ const ContactPage = () => {
 
                 <div className="phone">
                   <i className="icofont-globe-alt"></i>
-                  <h4>Upwork</h4>
-                  <p>
+                  <h4>
                     <a
                       target="_blanc"
                       href="https://www.upwork.com/freelancers/agho"
                     >
                       {" "}
-                      Click Here
+                      Upwork
                     </a>
-                  </p>
+                  </h4>
                 </div>
 
                 <GoogleMap />
