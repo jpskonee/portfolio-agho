@@ -35,10 +35,10 @@ const NameAnimation = () => {
             <ReactTypingEffect
               text={[
                 "Software Engineer.",
+                "FullStack Developer",
                 "Mobile Developer.",
+                "Product Designer.",
                 "IT Consultant.",
-                "STEM Educator.",
-                "Product Developer.",
               ]}
             />
             <span
