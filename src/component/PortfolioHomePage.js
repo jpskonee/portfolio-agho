@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const PortfolioHomePage = () => {
   return (
@@ -43,7 +44,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-1.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="App 1"
+                    title="Learn Now Africa"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -66,7 +67,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-2.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Web 3"
+                    title="CV Lord"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -89,7 +90,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-3.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="App 2"
+                    title="Twitch Clone"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -112,7 +113,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-4.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Card 2"
+                    title="Music Box"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -135,7 +136,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-5.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Web 2"
+                    title="Kudi Bag"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -158,7 +159,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-6.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="App 3"
+                    title="Personal Portfolio"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -181,7 +182,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-7.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Card 1"
+                    title="Weather App"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -192,7 +193,7 @@ const PortfolioHomePage = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
                 <img
                   src="assets/img/portfolio/portfolio-8.jpg"
@@ -204,7 +205,7 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-8.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Card 3"
+                    title="Barawo.com"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
@@ -227,13 +228,15 @@ const PortfolioHomePage = () => {
                     href="assets/img/portfolio/portfolio-9.jpg"
                     data-gall="portfolioGallery"
                     className="venobox"
-                    title="Web 3"
+                    title="Olorioko"
                   >
                     <i className="bx bx-plus"></i>
                   </a>
-                  <a href="/portfoliopage" title="More Details">
-                    <i className="bx bx-link"></i>
-                  </a>
+                  <Link to={`/portfoliopage`}>
+                    <a href="/" title="View Page">
+                      <i className="bx bx-link"></i>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>

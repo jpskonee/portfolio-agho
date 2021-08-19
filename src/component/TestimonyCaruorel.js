@@ -24,95 +24,97 @@ const TestimonyCaruorel = () => {
         <div className={classes.testimonyDiv}>
           <p>
             <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora
-            entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-            eget nibh et. Maecen aliquam, risus at semper.
+            Emmanuel was a dream to work with as always! He really helped me to
+            complete a highly complex project that others weren't able to figure
+            out and he went above and beyond to deliver! Look forward to working
+            with him again in the future.
+            <a target="_blanc" href="https://www.upwork.com/freelancers/agho">
+              {" "}
+              See On Upwork
+            </a>
             <i className="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
         </div>
         <img
-          src="assets/img/testimonials/testimonials-1.jpg"
+          src="assets/img/testimonials/upwork.png"
           className="testimonial-img"
           alt=""
         />
-        <h3>Saul Goodman</h3>
-        <h4>Ceo &amp; Founder</h4>
+        <h3>Kurt Thigpen</h3>
+        <h4>Ace Studio</h4>
       </div>
 
       <div className="testimonial-item" data-aos="fade-up" data-aos-delay="100">
         <div className={classes.testimonyDiv}>
           <p>
             <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora
-            entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-            eget nibh et. Maecen aliquam, risus at semper.
+            Emmanuel was extremely responsive, helpful, and had a great
+            turnaround time. He created a React App for me in very little time,
+            and it was done exactly how I wanted it. I will definitely be hiring
+            him for future jobs!
+            <a target="_blanc" href="https://www.upwork.com/freelancers/agho">
+              {" "}
+              See On Upwork
+            </a>
             <i className="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
         </div>
         <img
-          src="assets/img/testimonials/testimonials-2.jpg"
+          src="assets/img/testimonials/upwork.png"
           className="testimonial-img"
           alt=""
         />
-        <h3>Sara Wilsson</h3>
-        <h4>Designer</h4>
+        <h3>Jacob Hamilton</h3>
+        <h4>Backend Engineer</h4>
       </div>
 
       <div className="testimonial-item" data-aos="fade-up" data-aos-delay="200">
         <div className={classes.testimonyDiv}>
           <p>
-            <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora
-            entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-            eget nibh et. Maecen aliquam, risus at semper.
+            <i className="  bx bxs-quote-alt-left quote-icon-left"></i>
+            Emmanuel was able to answer my question almost immediately. He
+            offered additional insight beyond what was required and helped me
+            deepen my understanding of the problem I was encountering. I will
+            reach out to him again in the future!
+            <a target="_blanc" href="https://www.upwork.com/freelancers/agho">
+              {" "}
+              See On Upwork
+            </a>
             <i className="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
         </div>
         <img
-          src="assets/img/testimonials/testimonials-3.jpg"
+          src="assets/img/testimonials/upwork.png"
           className="testimonial-img"
           alt=""
         />
-        <h3>Jena Karlis</h3>
-        <h4>Store Owner</h4>
+        <h3>Randy James</h3>
+        <h4>FullStack Engineer</h4>
       </div>
 
       <div className="testimonial-item" data-aos="fade-up" data-aos-delay="300">
         <div className={classes.testimonyDiv}>
           <p>
             <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora
-            entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-            eget nibh et. Maecen aliquam, risus at semper.
+            Emmanuel was a pleasure to work with. He is creative and perceptive
+            based off of my experience. In my case, we didn't have a fully
+            fleshed out plan for our landing page, but he took what we had and
+            made it 1000% better. If you want great work done with good timing
+            (not taking weeks to finish), he's your guy.
+            <a target="_blanc" href="https://www.upwork.com/freelancers/agho">
+              {" "}
+              See On Upwork
+            </a>
             <i className="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
         </div>
         <img
-          src="assets/img/testimonials/testimonials-4.jpg"
+          src="assets/img/testimonials/upwork.png"
           className="testimonial-img"
           alt=""
         />
-        <h3>Matt Brandon</h3>
-        <h4>Freelancer</h4>
-      </div>
-
-      <div className="testimonial-item" data-aos="fade-up" data-aos-delay="400">
-        <div className={classes.testimonyDiv}>
-          <p>
-            <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora
-            entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-            eget nibh et. Maecen aliquam, risus at semper.
-            <i className="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-        </div>
-        <img
-          src="assets/img/testimonials/testimonials-5.jpg"
-          className="testimonial-img"
-          alt=""
-        />
-        <h3>John Larson</h3>
-        <h4>Entrepreneur</h4>
+        <h3>Ife Gift</h3>
+        <h4>LoveGift Media</h4>
       </div>
     </Carousel>
   );

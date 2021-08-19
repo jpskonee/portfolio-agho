@@ -10,13 +10,14 @@ const SkillsPage = () => {
             <h2>Skills</h2>
             <p>
               <b>Frontend:</b> HTML, CSS, Javascript, XML. <b>Backend: </b>
-              Node.js, Javascript, Python. <br />
-              <b> Frameworks/Libraries: </b> JQuery, Bootstrap, SASS, EJS,
-              React.js, Redux Material-UI, Ant-D. <br />
+              Node.js, Javascript, Typescript, Python. <br />
+              <b> Frameworks/Libraries: </b> JQuery, Bootstrap, Next.js,
+              GraphQL, SASS, EJS, React.js, Redux Material-UI, Ant-Designs.{" "}
+              <br />
               <b> CMS: </b> Wordpress, Shopify, Wix. <b>Database:</b> MySQL,
               PostgreSQL, MongoDB, Firebase & Cassandra. <br />
-              <b> Task & Project Management: </b> Jira, Git. <b> Mobile: </b>{" "}
-              React-Native
+              <b> Task & Project Management: </b> Jira, Git, Asana{" "}
+              <b> Mobile: </b> React-Native
             </p>
           </div>
           <div style={{ display: "flex", flexWrap: "wrap" }}>
@@ -25,7 +26,9 @@ const SkillsPage = () => {
             <SkillsItem colour="red" value={95} skill="Bootstrap" />
             <SkillsItem colour="tomato" value={95} skill="SASS" />
             <SkillsItem colour="#148F77" value={98} skill="Javascript" />
+            <SkillsItem colour="aqua" value={92} skill="Typescript" />
             <SkillsItem colour="dodgerblue" value={98} skill="React.js" />
+            <SkillsItem colour="green" value={90} skill="Next.js" />
             <SkillsItem colour="peach" value={95} skill="Node.js" />
             <SkillsItem colour="Violet" value={90} skill="Python" />
             <SkillsItem colour="#BA4A00" value={88} skill="React-Native" />

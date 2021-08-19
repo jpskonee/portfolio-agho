@@ -33,9 +33,17 @@ const ContactPage = () => {
                 </div>
 
                 <div className="phone">
-                  <i className="icofont-phone"></i>
-                  <h4>Call:</h4>
-                  <p>+23480-955-471-52</p>
+                  <i className="icofont-globe-alt"></i>
+                  <h4>Upwork</h4>
+                  <p>
+                    <a
+                      target="_blanc"
+                      href="https://www.upwork.com/freelancers/agho"
+                    >
+                      {" "}
+                      Click Here
+                    </a>
+                  </p>
                 </div>
 
                 <GoogleMap />

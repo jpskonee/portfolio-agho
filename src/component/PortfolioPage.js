@@ -1,8 +1,10 @@
 import React from "react";
 import Footer from "./Footer";
 import HeaderWithNav from "./HeaderWithNav";
+import PortfolioCaruosel from "./portfolio/PortfolioCaruosel";
 
-const PortfolioPage = () => {
+const PortfolioPage = ({ match }) => {
+  console.log(match.params);
   return (
     <div>
       <HeaderWithNav />
@@ -25,23 +27,7 @@ const PortfolioPage = () => {
         <section id="portfolio-details" className="portfolio-details">
           <div className="container">
             <div className="portfolio-details-container">
-              <div className="owl-carousel portfolio-details-carousel">
-                <img
-                  src="/assets/img/portfolio-details-1.jpg"
-                  className="img-fluid"
-                  alt=""
-                />
-                <img
-                  src="assets/img/portfolio-details-2.jpg"
-                  className="img-fluid"
-                  alt=""
-                />
-                <img
-                  src="assets/img/portfolio-details-3.jpg"
-                  className="img-fluid"
-                  alt=""
-                />
-              </div>
+              <PortfolioCaruosel />
 
               <div className="portfolio-info">
                 <h3>Project information</h3>

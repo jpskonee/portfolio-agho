@@ -9,10 +9,13 @@ const TestimonialPage = () => {
           <div className="section-title">
             <h2>Testimonials</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              I offer services both physically and remotely across the globe;
+              But for the sake of verification, Below are a few comments from my
+              satisfied clients on Upwork.
+              <a target="_blanc" href="https://www.upwork.com/freelancers/agho">
+                {" "}
+                See On Upwork
+              </a>
             </p>
           </div>
 
